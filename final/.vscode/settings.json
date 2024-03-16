@@ -1,0 +1,16 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "files.associations": {
+    "esp_camera.h": "c",
+    "esp_log.h": "c",
+    "sockets.h": "c",
+    "sys.h": "c"
+  },
+  "idf.adapterTargetName": "esp32s3",
+  "idf.openOcdConfigs": [
+    "board/esp32s3-bridge.cfg"
+  ],
+  "idf.portWin": "COM8",
+  "idf.flashType": "UART",
+  "esbonio.sphinx.confDir": ""
+}
